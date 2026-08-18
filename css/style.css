@@ -363,9 +363,9 @@ body{
 }
 
 .aparecer{
-    opacity: 0;
+    opacity: 0.5;
     transform: translateY(30px);
-    transition: all 1s ease-out;
+    transition: all 0.5s ease-out;
 }
 
 .aparecer.aparecer.visivel{
